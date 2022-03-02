@@ -1,4 +1,4 @@
-from diagonals_solutions import *
+from diagonals import *
 
 print(sorted(get_diagonals([(3, -4), (2, 0), (5, 1)])))
 print(sorted(get_diagonals([(3, 1), (4, -3), (2, 1), (-5, 2)])))
