@@ -1,9 +1,9 @@
 from diagonals import *
 
-print(sorted(get_diagonals([(3, -4), (2, 0), (5, 1)])))
-print(sorted(get_diagonals([(3, 1), (4, -3), (2, 1), (-5, 2)])))
-print(sorted(get_diagonals([(2, -1), (5, -3), (4, 3), (5, -2)])))
-print(sorted(get_diagonals([(8, 4), (3, 4), (4, 5), (7, 3), (-3, 3)])))
-print(sorted(get_diagonals([(-3,5), (-4, 3), (18, 2), (10, 16), (13, -9), (15, 1), (18, -11)])))
+print(sorted(get_diagonals([(8, 4), (2, 0), (5, 1)])))
+print(sorted(get_diagonals([(8, 4), (17, 4), (13, -3), (4, -3)])))
+print(sorted(get_diagonals([(3, 5), (7, 5), (7, 1), (3, 1)])))
+print(sorted(get_diagonals([(5, 7), (11, 6), (16, 2), (10, -3), (0, 0)])))
+print(sorted(get_diagonals([(-9, 0), (-6, 5), (1, 7), (6, 3), (8, -2), (4, -5), (-4, -5)])))
 
 
